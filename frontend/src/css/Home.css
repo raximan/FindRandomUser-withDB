@@ -1,0 +1,33 @@
+.h1H{
+    padding:3%  30% !important;
+    margin-top: 7% !important;
+    color: #03A678
+}
+.h2H{
+    padding:1% 30% !important;
+    color: #03A678
+}
+.h3H{
+    padding:1% 33% !important;
+    color: #03A678
+}
+.Buttonhey{
+    margin:5% 43% !important ;
+    background-color:#03A678 !important;
+    color: #502000 !important;
+}
+.Buttonhey:hover{
+    background-color:#02735E !important;
+  }
+body{
+
+    background-color:#003840;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Home{
+    margin-left: 10% !important;
+    margin-right: 10%;
+    background-color:#407344;
+}

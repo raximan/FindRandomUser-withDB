@@ -1,0 +1,46 @@
+.Success{
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10% !important;
+    margin-bottom: 20%;
+    background-color:#407344;
+    
+}
+.h2S{
+    padding: 2% 41% !important ;
+}
+.h4S{
+    padding: 2% 28% !important ;
+}
+.Successbutton{
+    /* margin-top: 6% !important ;
+    margin-bottom: 10% !important; */
+    margin-left: 85% !important;
+    background-color:#03A678 !important;
+    color: #502000 !important;
+}
+.Successbutton:hover{
+    background-color:#02735E !important;
+  }
+.WhatDYT{
+    color: #A3AB78;
+    padding:3% 30%;
+}
+.InputFıeld{
+    color:#A3AB78;
+}
+.containerGrid{
+    margin-bottom: 2% !important;
+}
+#rateExp{
+    color:#A3AB78;
+}
+.SubmitButtonForm{
+    margin-top: 2% !important;
+    margin-left: 45% !important;
+    color:black !important;
+    background-color:#A3AB78 !important ;
+}
+.SubmitButtonForm:hover{
+    background-color:#838672 !important; 
+}

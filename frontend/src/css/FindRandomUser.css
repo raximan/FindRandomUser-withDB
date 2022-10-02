@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+#app{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#FindRandomUser{
+  padding:1% 25% ;
+  background-color: #014040;
+}
+#Head{
+  padding:5% 35% ;
+  margin-bottom: 3%;
+  background-color: #014040;
+}
+
+.centerinFindRandomUser{
+  padding: 5% 25%;
+}
+#Round{
+ color: #03A678;
+}
+.GridItem{
+   padding: 3% 5%; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+  
+}
+.GridItemText{
+  color:#03A678; ;
+  padding-right:5%;
+}
+.GridButton{
+  /* margin: 0% 30% !important;
+  margin-top: 10% !important ; */
+  background-color:#03A678 !important;
+}
+.GridButton:hover{
+  background-color:#02735E !important;
+}
+#ReturnHome{
+  color:#02735E;
+  font-size: large;
+  margin-top: 5%;
+  margin-left: 40%;
+}
